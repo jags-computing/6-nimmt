@@ -16,11 +16,11 @@ esas cartas.
 ## Conceptos básicos
 
 * Las cartas están numeradas del 1 al 104 y tienen símbolos de bueyes que indican puntos negativos.
-* Cartas terminadas en 5: 2 bueyes.
-* Cartas múltiplos de 10: 3 bueyes.
-* Cartas múltiplos de 11: 5 bueyes.
-* El 55: 7 bueyes.
-* Resto de cartas: 1 buey.
+* Cartas terminadas en 5 -> 2 bueyes.
+* Cartas múltiplos de 10 -> 3 bueyes.
+* Cartas múltiplos de 11 -> 5 bueyes.
+* El 55 -> 7 bueyes.
+* Resto de cartas -> 1 buey.
 
 ## Preparación
 
